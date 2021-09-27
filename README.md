@@ -1,6 +1,6 @@
 # AVR-GPIO
 GPIO class for avr
-For example:
+For example
 
 GPIO led_pc2(&PORTC, PINC2);
 GPIO pio1(&PORTB, PINB3);
